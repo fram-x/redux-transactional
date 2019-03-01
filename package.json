@@ -1,0 +1,29 @@
+{
+  "name": "y",
+  "version": "0.1.0",
+  "description": "Provides sequential, nested transactions on top of redux store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fram-x/redux-transactional.git"
+  },
+  "keywords": [
+    "redux",
+    "store",
+    "reducer",
+    "transaction",
+    "commit",
+    "abort",
+    "nested",
+    "undo"
+  ],
+  "author": "Bjørn Egil Hansen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fram-x/redux-transactional/issues"
+  },
+  "homepage": "https://github.com/fram-x/redux-transactional#readme"
+}
